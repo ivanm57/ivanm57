@@ -11,7 +11,7 @@
 # 🚀 About Me
 
 🎓 DAM Student — Multiplatform Application Development  
-💼 Currently working as an intern at **ACCENTURE**  
+💼 Currently working as an intern at ACCENTURE, focusing on Python development and Google Cloud Platform (GCP) services. 
 📱 Passionate about **mobile development** and **backend and frontend architectures**  
 ⚙️ Focused on **REST APIs, microservices, frontend development and scalable applications**
 
@@ -75,6 +75,15 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=ivanm57&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="170em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ivanm57&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 # 🧠 Currently Learning
 
@@ -110,5 +119,5 @@ JWT authentication system using Spring Boot, Spring Security and Redis.
 ---
 
 <p align="center">
-  Made with ❤️ by Iván Martínez Martínez 
+  Made by Iván Martínez Martínez 
 </p>
